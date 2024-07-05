@@ -1,0 +1,26 @@
+# Ignore build output directories
+out/
+dist/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore VS Code test directory
+.vscode-test/
+
+# Ignore packaged extension files
+*.vsix
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore temporary files
+tmp/
+temp/
+*.tmp
